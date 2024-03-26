@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.HashSet;
 
-public class rascunhoprojeto {
+public class projeto_estoque {
     // struct que forma os dados do produto no estoque
     static class Prod {
         String nome;
